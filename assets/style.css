@@ -1,0 +1,19 @@
+p{
+    color: #818e7f;
+}
+
+h1{
+    color: #818e7f;
+}
+
+h5{
+    text-align: center;
+}
+
+.education{
+    display: grid;
+    grid-template-columns: 90px 290px;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
